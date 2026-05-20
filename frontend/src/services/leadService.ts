@@ -1,7 +1,6 @@
 import axios from "axios";
 
-const API =
-  "http://localhost:5000/api/leads";
+const API ="https://smart-leads-backend-gis6.onrender.com/api/leads";
 
 export type Lead = {
   _id?: string;
