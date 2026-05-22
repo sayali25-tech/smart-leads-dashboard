@@ -22,3 +22,6 @@ npm run dev
 cd frontend
 npm install
 npm run dev
+
+## Demo Video
+https://1drv.ms/v/c/56ba62ec951bf613/IQApcHCyDQ5_Q4kJZwtKYDLBAR3RUPEKh6DjMhIwa_FqsUk?e=Is758E
